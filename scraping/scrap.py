@@ -20,3 +20,4 @@ anker=td_tag.find("a")
 
 tr_tag=soup.find("tbody",{'class':'lister-list'})
 # print(tr_tag.text)
+
